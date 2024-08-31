@@ -3,7 +3,7 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
 
-ZCZC W00 20 L00 Reading and familiarizing with https://demos.vlsm.org/
+ZCZC W00 20 L00 Reading and familiarizing with https://os.vlsm.org/
 ZCZC W00 20 L01 Joining SCELE, Discord, and reading the announcements
 ZCZC W00 200 L02 Monday and Wednesday Class
 ZCZC W00 20 L03 Setting up Github
