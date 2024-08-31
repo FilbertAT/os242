@@ -1,1 +1,12 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+
+ZCZC W00 20 L00 Reading and familiarizing with https://demos.vlsm.org/
+ZCZC W00 20 L01 Joining SCELE, Discord, and reading the announcements
+ZCZC W00 200 L02 Monday and Wednesday Class
+ZCZC W00 20 L03 Setting up Github
+ZCZC W00 05 L04 Setting up GitHub Page
+ZCZC W00 90 L05 Quiz, Zoom for quiz, studying for quiz, and SEB Error handling
+ZCZC W00 60 L09 Weekly Assignments
