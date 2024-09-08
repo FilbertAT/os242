@@ -2,11 +2,20 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-
-ZCZC W00 20 L00 Reading and familiarizing with https://os.vlsm.org/
-ZCZC W00 20 L01 Joining SCELE, Discord, and reading the announcements
-ZCZC W00 200 L02 Monday and Wednesday Class
-ZCZC W00 20 L03 Setting up Github
-ZCZC W00 05 L04 Setting up GitHub Page
-ZCZC W00 90 L05 Quiz, Zoom for quiz, studying for quiz, and SEB Error handling
-ZCZC W00 60 L09 Weekly Assignments
+ZCZC  W01  100  L02  Monday Class on 2024-09-02
+ZCZC  W01  100  L02  Wednesday Class on 2024-09-04
+ZCZC  W01  60   L31  Installing VirtualBox, Linux
+ZCZC  W01  180  L11  Assignment #01: Setup a Virtual Debian Guest
+ZCZC  W01  20   L12  Assignment #02: GIT, GITHUB, and SSH
+ZCZC  W01  60   L13  Assignment #03: The ATM Way: GSGS and Read
+ZCZC  W01  30   L14  Assignment #04: LINKS/
+ZCZC  W01  60   L15  Assignment #05: Finishing
+ZCZC  W01  40   L01  Answering PopQuiz W01-1, W01-2, W01-3 on SCELE Forum
+ZCZC  W01  60   L05  Quiz, Zoom for quiz, studying for quiz.
+ZCZC  W00  20   L00  Reading and familiarizing with https://os.vlsm.org/
+ZCZC  W00  20   L01  Joining SCELE, Discord, and reading the announcements
+ZCZC  W00  200  L02  Monday and Wednesday Class
+ZCZC  W00  20   L03  Setting up Github
+ZCZC  W00  05   L04  Setting up GitHub Page
+ZCZC  W00  90   L05  Quiz, Zoom for quiz, studying for quiz, and SEB Error handling
+ZCZC  W00  60   L09  Weekly Assignments
