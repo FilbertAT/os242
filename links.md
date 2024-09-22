@@ -76,12 +76,12 @@ permalink: LINKS/
         <th style="text-align: center;">Description</th>
     </tr>
     <tr>
-        <td style="text-align: center;"><a href="https://micro-editor.github.io/">micro: a modern and intuitive terminal-based text editor</a></td>
+        <td style="text-align: center;"><a href="https://micro-editor.github.io/">micro: A Modern and Intuitive Terminal-Based Text Editor</a></td>
         <td style="text-align: center;">Article</td>
         <td>This week, since we're editing more and more text files, I'm checking out a new text editor called micro! While it's not quite as powerful as Vi or Nano, micro is definitely a more user-friendly option.</td>
     </tr>
     <tr>
-        <td style="text-align: center;"><a href="https://www.youtube.com/watch?v=F-a_BBAGfkE">mounting and unmounting disks/partitions - Linux Command Line tutorial for forensics - 15</a></td>
+        <td style="text-align: center;"><a href="https://www.youtube.com/watch?v=F-a_BBAGfkE">Mounting and Unmounting Disks/Partitions - Linux Command Line tutorial for forensics - 15</a></td>
         <td style="text-align: center;">Video</td>
         <td>If you want to dive into the ins and outs of this week's assignment or need help with any missed steps and errors, make sure to check out this video.</td>
     </tr>
