@@ -5,6 +5,7 @@ permalink: LINKS/
 # [HOME](../)
 
 # LINKS
+[Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) |
 
 ## ALL ABOUT OPERATING SYSTEMS SUBJECT @ UNIVERSITY OF INDONESIA
 <table>
@@ -89,5 +90,24 @@ permalink: LINKS/
         <td style="text-align: center;"><a href="https://www.youtube.com/watch?v=KN8YgJnShPM">Files & File Systems: Crash Course Computer Science #20</a></td>
         <td style="text-align: center;">Video</td>
         <td>The video explains how common file formats like TXT, WAV, and BMP are encoded and decoded to transform binary data into images and audio, and discusses how computers manage and provide easy access to this data, increasingly focusing on the perspective of a newbie like me.</td>
+    </tr>
+</table>
+
+## WEEK 04
+<table>
+    <tr>
+        <th style="text-align: center;">Topic</th>
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Description</th>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://youtu.be/HkGJr5BJg5g">How to backup and restore Virtualbox Machines?</a></td>
+        <td style="text-align: center;">Video</td>
+        <td>Genuine (ORI) Computer Science students back up their OVAs! Fake (KW) students keep sobbing because they don't have any backup. In this video tutorial you will learn to backup and restore the Virtualbox Machines to and from an extra Virtual Disk.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/">How to Securely Copy Files in Linux</a></td>
+        <td style="text-align: center;">Article</td>
+        <td>If you encounter any issues while copying files from your local directory to your VM, or from your VM to Mr. RMS's os1, you can refer to this article for assistance in finding solutions.</td>
     </tr>
 </table>
