@@ -2,6 +2,16 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC  W04  120  L01  Answering PopQuiz W04-1, W04-2, W04-3, W04-4 on SCELE Forum
+ZCZC  W04  100  L02  Wednesday Class on 2024-09-25
+ZCZC  W04  10   L11  Assignment #01: Readings and Demos
+ZCZC  W04  20   L12  Assignment #02: Back up My SSH and GPG keys (Realizing didn't change the Week=02 into Week=03 in the third week)
+ZCZC  W04  15   L13  Assignment #03: Assignment Script
+ZCZC  W04  30   L14  Assignment #04: Compiling The Linux Programming Interface (TLPI)
+ZCZC  W04  30   L15  Assignment #05: Finishing
+ZCZC  W04  15   L64  Helping a friend copying files from SCELE (PopQuiz W04-1)
+ZCZC  W04  120  L72  Teaching Competitive Programming Online (#OPENTOWORK)
+
 ZCZC  W03  150  L01  Answering PopQuiz W03-1, W03-2, W03-3, W03-4 on SCELE Forum
 ZCZC  W03  100  L02  Wednesday Class on 2024-09-18
 ZCZC  W03  100  L02  Monday Class on 2024-09-23
