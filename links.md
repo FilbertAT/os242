@@ -111,3 +111,27 @@ permalink: LINKS/
         <td>If you encounter any issues while copying files from your local directory to your VM, or from your VM to Mr. RMS's os1, you can refer to this article for assistance in finding solutions.</td>
     </tr>
 </table>
+
+## WEEK 05
+<table>
+    <tr>
+        <th style="text-align: center;">Topic</th>
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Description</th>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://www.linuxfoundation.org/blog/blog/classic-sysadmin-linux-101-5-commands-for-checking-memory-usage-in-linux">5 Commands For Checking Memory Usage In Linux</a></td>
+        <td style="text-align: center;">Article</td>
+        <td>Since one of this week's assignment is about memory of the Virtual Debian Guest, the article above will provide you information on how to check for memory usage in Linux.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://usaco.guide/silver/binary-search?lang=cpp">Binary Search</a></td>
+        <td style="text-align: center;">Article and Video</td>
+        <td>Still regarding this week's assignment on finding how low memory can we go, i use a method called Binary Search (or Binary Search The Answer) to find the lowest memory I can go for my Virtual Debian Guest. This method will help you fasten the process effectively and correctly rather than doing Brute Force.</td>
+    </tr>
+        <tr>
+        <td style="text-align: center;"><a href="https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/">Brute Force Approach and Its Pros and Cons</a></td>
+        <td style="text-align: center;">Article</td>
+        <td>Yup, since i mentioned about Brute Force above, here is an article about Brute Force method that will also guide you to find the lowest memory you can go (you will get the same result as using Binary Search) but of course, with longer duration.</td>
+    </tr>
+</table>
