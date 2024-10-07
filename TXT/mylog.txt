@@ -2,6 +2,23 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC  W05  180  L01  Answering PopQuiz W05-1, W05-2, W05-3, W05-4, reading GENERALS, ATTN, Announcements on SCELE Forum
+ZCZC  W05  100  L02  Monday Class on 2024-09-30
+ZCZC  W05  10   L03  Pull, Commit, Push to Github and making sure that everything is already correct
+ZCZC  W05  30   L04  Looking at friend's gitHub pages
+ZCZC  W05  60   L05  Quiz and studying for quiz
+ZCZC  W05  30   L08  Texting my friends on making sure that I do the Assignment #03 and Assignment #04 correctly
+ZCZC  W05  30   L11  Assignment #01: Readings and Demos
+ZCZC  W05  20   L12  Assignment #02: Back up My SSH and GPG keys
+ZCZC  W05  120  L13  Assignment #03: Finding Out How Low (Memory) Can I Go?
+ZCZC  W05  10   L14  Assignment #04: Doing Assignment Script(s)
+ZCZC  W05  120  L15  Assignment #05: Memory
+ZCZC  W05  60   L16  Assignment #06: Finishing
+ZCZC  W05  60   L43  Peer reviews (myrank)
+ZCZC  W05  20   L61  Backup Virtual Box
+ZCZC  W05  120  L72  Teaching Competitive Programming Online (#OPENTOWORK)
+ZCZC  W05  480  L98  Competing in Pekan Raya Statistika @ITS,Surabaya
+
 ZCZC  W04  120  L01  Answering PopQuiz W04-1, W04-2, W04-3, W04-4 on SCELE Forum
 ZCZC  W04  100  L02  Wednesday Class on 2024-09-25
 ZCZC  W04  10   L11  Assignment #01: Readings and Demos
