@@ -5,7 +5,7 @@ permalink: LINKS/
 # [HOME](../)
 
 # LINKS
-[Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) 
+[Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) 
 
 ## ALL ABOUT OPERATING SYSTEMS SUBJECT @ UNIVERSITY OF INDONESIA
 <table>
@@ -133,5 +133,25 @@ permalink: LINKS/
         <td style="text-align: center;"><a href="https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/">Brute Force Approach and Its Pros and Cons</a></td>
         <td style="text-align: center;">Article</td>
         <td>Yup, since i mentioned about Brute Force above, here is an article about Brute Force method that will also guide you to find the lowest memory you can go (you will get the same result as using Binary Search) but of course, with longer duration.</td>
+    </tr>
+</table>
+
+## WEEK 06
+<table>
+    <tr>
+        <th style="text-align: center;">Topic</th>
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Description</th>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c">5 Commands For Checking Memory Usage In Linux</a></td>
+        <td rowspan="3" style="text-align: center;">Discussion Platform</td>
+        <td rowspan="3">These websites discuss the differences between mmap and malloc in C/C++, particularly in terms of memory allocation. They explain that malloc manages memory through the heap, typically using sequential addresses, while mmap maps files or devices directly into memory, providing more control over allocation but often resulting in non-sequential address allocations and better performance for large memory regions.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://www.unix.com/programming/146082-mmap-malloc-whats-difference.html">Binary Search</a></td>
+    </tr>
+        <tr>
+        <td style="text-align: center;"><a href="https://www.quora.com/How-are-mmap-and-malloc-related-in-C-C">Brute Force Approach and Its Pros and Cons</a></td>
     </tr>
 </table>
