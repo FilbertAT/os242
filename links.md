@@ -144,14 +144,14 @@ permalink: LINKS/
         <th style="text-align: center;">Description</th>
     </tr>
     <tr>
-        <td style="text-align: center;"><a href="https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c">5 Commands For Checking Memory Usage In Linux</a></td>
+        <td style="text-align: center;"><a href="https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c">Stack Overflow: malloc vs mmap in C</a></td>
         <td rowspan="3" style="text-align: center;">Discussion Platform</td>
         <td rowspan="3">These websites discuss the differences between mmap and malloc in C/C++, particularly in terms of memory allocation. They explain that malloc manages memory through the heap, typically using sequential addresses, while mmap maps files or devices directly into memory, providing more control over allocation but often resulting in non-sequential address allocations and better performance for large memory regions.</td>
     </tr>
     <tr>
-        <td style="text-align: center;"><a href="https://www.unix.com/programming/146082-mmap-malloc-whats-difference.html">Binary Search</a></td>
+        <td style="text-align: center;"><a href="https://www.unix.com/programming/146082-mmap-malloc-whats-difference.html">Unix: mmap and malloc, whats the difference?</a></td>
     </tr>
         <tr>
-        <td style="text-align: center;"><a href="https://www.quora.com/How-are-mmap-and-malloc-related-in-C-C">Brute Force Approach and Its Pros and Cons</a></td>
+        <td style="text-align: center;"><a href="https://www.quora.com/How-are-mmap-and-malloc-related-in-C-C">Quora: How are mmap() and malloc() related in C/C++?</a></td>
     </tr>
 </table>
