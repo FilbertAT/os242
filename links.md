@@ -5,7 +5,7 @@ permalink: LINKS/
 # [HOME](../)
 
 # LINKS
-[Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) 
+[Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) | [Week 07](#week-07)
 
 ## ALL ABOUT OPERATING SYSTEMS SUBJECT @ UNIVERSITY OF INDONESIA
 <table>
@@ -154,4 +154,17 @@ permalink: LINKS/
         <tr>
         <td style="text-align: center;"><a href="https://www.quora.com/How-are-mmap-and-malloc-related-in-C-C">Quora: How are mmap() and malloc() related in C/C++?</a></td>
     </tr>
+</table>
+
+## WEEK 07
+<table>
+    <tr>
+        <th style="text-align: center;">Topic</th>
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Description</th>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://www.youtube.com/watch?v=4rLW7zg21gI">FANG Interview Question | Process vs Thread</a></td>
+        <td style="text-align: center;">Video</td>
+        <td>Explains the differences between processes and threads, focusing on their memory usage, execution, and communication. It highlights how threads share the same memory space while processes have separate memory, making threads more efficient for communication but less isolated.</td>
 </table>
