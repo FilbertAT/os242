@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC  W07  180  L01  Answering PopQuiz W07-1, W07-2, W07-3, W07-4, W07-5 on SCELE Forum
+ZCZC  W07  100  L02  Monday Class
+ZCZC  W07  100  L02  Wednesday Class
+ZCZC  W07  10   L11  Assignment #01: Readings and Demos
+ZCZC  W07  15   L12  Assignment #02: Assignment Script
+ZCZC  W07  60   L13  Assignment #03: Synchronization
+ZCZC  W07  120  L14  Assignment #04: Finishing
+ZCZC  W07  240  L72  Teaching Competitive Programming Online (#OPENTOWORK)
+
 ZCZC  W06  120  L01  Answering PopQuiz W06-1, W06-2, W06-3, W06-4, W06-5, W06-6 on SCELE Forum
 ZCZC  W06  100  L02  Wednesday Class
 ZCZC  W06  10   L11  Assignment #01: Readings and Demos
