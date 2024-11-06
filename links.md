@@ -5,7 +5,7 @@ permalink: LINKS/
 # [HOME](../)
 
 # LINKS
-[Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) | [Week 07](#week-07)
+[Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) | [Week 07](#week-07) | [Week 08](#week-08)
 
 ## ALL ABOUT OPERATING SYSTEMS SUBJECT @ UNIVERSITY OF INDONESIA
 <table>
@@ -167,4 +167,24 @@ permalink: LINKS/
         <td style="text-align: center;"><a href="https://www.youtube.com/watch?v=4rLW7zg21gI">FANG Interview Question | Process vs Thread</a></td>
         <td style="text-align: center;">Video</td>
         <td>Explains the differences between processes and threads, focusing on their memory usage, execution, and communication. It highlights how threads share the same memory space while processes have separate memory, making threads more efficient for communication but less isolated.</td>
+    </tr>
+</table>
+
+## WEEK 08
+<table>
+    <tr>
+        <th style="text-align: center;">Topic</th>
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Description</th>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://www.linuxfromscratch.org/lfs/view/development/chapter02/aboutlfs.html">Linux From Scratch: Setting The $LFS Variable</a></td>
+        <td style="text-align: center;">Article</td>
+        <td>The article serves as an introduction to the Linux From Scratch (LFS) project, detailing its objective of guiding users through the process of building a customized Linux system entirely from source code. It emphasizes the educational benefits of this hands-on approach, allowing users to gain a deeper understanding of Linux's internal mechanisms and fostering greater control over their operating system configuration.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://demos.vlsm.org/W03-02.html">Is $LFS == /mnt/lfs ?</a></td>
+        <td style="text-align: center;">Article</td>
+        <td>The instructions and commands to verify if the environment variable $LFS is set to /mnt/lfs and if the directory /mnt/lfs exists.</td>
+    </tr>
 </table>
